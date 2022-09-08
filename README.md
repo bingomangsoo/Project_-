@@ -91,8 +91,16 @@
 
 ## 🖥 화면 구성
 
-### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
+### 메인화면
+![메인](https://user-images.githubusercontent.com/101463273/189022287-cf97951c-f83a-4721-aa6c-23dd2c0b874f.png)
+<br>
+
+### 회원가입/로그인/회원수정/회원탈퇴
+![회원가입](https://user-images.githubusercontent.com/101463273/189022860-f6b64c01-e4a8-4c47-a4b5-cfb3fd66f17d.png)
+<br>
+![로그인](https://user-images.githubusercontent.com/101463273/189022804-dec723de-1537-480f-b4fc-4046b63ff21b.png)
+<br>
+![마이페이지](https://user-images.githubusercontent.com/101463273/189022909-96e65b64-4e72-453d-8616-adbe7d5a4378.png)
 <br>
 
 ### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
