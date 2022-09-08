@@ -92,15 +92,14 @@
 ## 🖥 화면 구성
 
 ### 메인화면
-![메인](https://user-images.githubusercontent.com/101463273/189022287-cf97951c-f83a-4721-aa6c-23dd2c0b874f.png)
+![로그인후_메인](https://user-images.githubusercontent.com/101463273/189025954-c0e38b77-22ef-4a1f-acc4-673b246c407d.png)
 <br>
 
 ### 회원가입/로그인/회원수정/회원탈퇴
-![회원가입](https://user-images.githubusercontent.com/101463273/189022860-f6b64c01-e4a8-4c47-a4b5-cfb3fd66f17d.png)
-<br>
-![로그인](https://user-images.githubusercontent.com/101463273/189022804-dec723de-1537-480f-b4fc-4046b63ff21b.png)
-<br>
-![마이페이지](https://user-images.githubusercontent.com/101463273/189022909-96e65b64-4e72-453d-8616-adbe7d5a4378.png)
+![로그인](https://user-images.githubusercontent.com/101463273/189025958-98788b95-7220-4b76-a1e8-6902de36515e.png)
+![회원가입](https://user-images.githubusercontent.com/101463273/189025967-c122cfad-e733-4d50-9028-cc0752a82e0e.png)
+![마이페이지1](https://user-images.githubusercontent.com/101463273/189025986-299441f3-0baa-4832-ae57-76a00d685f3e.png)
+![마이페이지2](https://user-images.githubusercontent.com/101463273/189025991-5f127c44-b21a-4834-bfb6-554949c81649.png)
 <br>
 
 ### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
@@ -162,7 +161,7 @@
 ## 🤾‍♂️ 트러블슈팅
   
 * DB 설계 문제<br>
- 
+ DB 테이블 설계가 막막했다.
  
 * 프로젝트 통합 문제<br>
  git lab을 이용하여 프로젝트를 통합하였는데 git lab 사용이 처음이어서 익숙하지 않았고, merge 이후에는 충돌 문제가 발생하였다.
