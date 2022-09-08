@@ -92,17 +92,17 @@
 
 ## 🖥 화면 구성
 
-### 메인화면/지출입력
-![로그인후_메인](https://user-images.githubusercontent.com/101463273/189025954-c0e38b77-22ef-4a1f-acc4-673b246c407d.png)
-![메인_지출입력](https://user-images.githubusercontent.com/101463273/189026408-de883063-86b4-439b-a881-ccbd9862c963.png)
-<br>
-<br>
-
 ### 회원가입/로그인/회원수정/회원탈퇴
 ![회원가입](https://user-images.githubusercontent.com/101463273/189025967-c122cfad-e733-4d50-9028-cc0752a82e0e.png)
 ![로그인](https://user-images.githubusercontent.com/101463273/189025958-98788b95-7220-4b76-a1e8-6902de36515e.png)
 ![마이페이지1](https://user-images.githubusercontent.com/101463273/189025986-299441f3-0baa-4832-ae57-76a00d685f3e.png)
 ![마이페이지2](https://user-images.githubusercontent.com/101463273/189025991-5f127c44-b21a-4834-bfb6-554949c81649.png)
+<br>
+<br>
+
+### 메인화면/지출입력
+![로그인후_메인](https://user-images.githubusercontent.com/101463273/189025954-c0e38b77-22ef-4a1f-acc4-673b246c407d.png)
+![메인_지출입력](https://user-images.githubusercontent.com/101463273/189026408-de883063-86b4-439b-a881-ccbd9862c963.png)
 <br>
 <br>
 
