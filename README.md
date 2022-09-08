@@ -1,7 +1,6 @@
 # Project_smhrd
-# Project_smhrd1
-# 📎 꽃 보러 갈래?(팀명: 아름답조)
-![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
+# 🥶 얼어죽어도 코딩(팀명: 얼죽코)
+![제목 없음](https://user-images.githubusercontent.com/101463273/189017035-e5c9352f-c883-4d9f-80c7-8f6fe2b13224.png)
 
 
 ## 👽 서비스 소개
