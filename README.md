@@ -129,6 +129,8 @@
     <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
     <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Backend</b></td>
+
   </tr>
     <tr>
     <td align="center"><b>팀장, 게시판 서비스 구현<br>레벨 화면 구현<br>DB 설계</b></td>
