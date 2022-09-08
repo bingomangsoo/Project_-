@@ -78,7 +78,8 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
+![us케이스](https://user-images.githubusercontent.com/101463273/189058538-62776cb8-1eb9-4088-b21d-f89a68cc2c04.png)
+
 <br>
 
 ## 📌 서비스 흐름도
