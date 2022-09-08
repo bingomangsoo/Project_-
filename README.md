@@ -91,24 +91,33 @@
 
 ## 🖥 화면 구성
 
-### 메인화면
+### 메인화면/지출입력
 ![로그인후_메인](https://user-images.githubusercontent.com/101463273/189025954-c0e38b77-22ef-4a1f-acc4-673b246c407d.png)
+![메인_지출입력](https://user-images.githubusercontent.com/101463273/189026408-de883063-86b4-439b-a881-ccbd9862c963.png)
 <br>
 
 ### 회원가입/로그인/회원수정/회원탈퇴
-![로그인](https://user-images.githubusercontent.com/101463273/189025958-98788b95-7220-4b76-a1e8-6902de36515e.png)
 ![회원가입](https://user-images.githubusercontent.com/101463273/189025967-c122cfad-e733-4d50-9028-cc0752a82e0e.png)
+![로그인](https://user-images.githubusercontent.com/101463273/189025958-98788b95-7220-4b76-a1e8-6902de36515e.png)
 ![마이페이지1](https://user-images.githubusercontent.com/101463273/189025986-299441f3-0baa-4832-ae57-76a00d685f3e.png)
 ![마이페이지2](https://user-images.githubusercontent.com/101463273/189025991-5f127c44-b21a-4834-bfb6-554949c81649.png)
 <br>
 
-### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
+### 마이챌린지
+![마이챌린지](https://user-images.githubusercontent.com/101463273/189026466-9c941f79-3d8b-4f68-9207-625b977a304d.png)
 <br>
 
-### 일정/고객센터
-![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
+### 게시판/댓글
+![자유게시판](https://user-images.githubusercontent.com/101463273/189026511-749c0978-cc67-4da1-8d51-be34f43cc1b1.png)
+![Uploading 게시글.png…]()
+![게시글](https://user-images.githubusercontent.com/101463273/189026760-37616a6e-4342-4d48-b13d-e1cf886f3b9a.png)
+![게시글작성](https://user-images.githubusercontent.com/101463273/189026529-806cdb5a-2b51-40c2-973e-c21b6fc95531.png)
+![게시글수정](https://user-images.githubusercontent.com/101463273/189026523-0ed330f0-b4f8-4b1f-b6f4-5f8155c26c00.png)
 <br>
+
+### 레벨 게시판/세이브 포인트 게시판
+![레벨게시판](https://user-images.githubusercontent.com/101463273/189026596-79295e41-40df-4b86-ac24-fea832ab2dcc.png)
+![절약정보게시판](https://user-images.githubusercontent.com/101463273/189026622-39ea74db-5ee4-444d-8e53-cf24964c4a0e.png)
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
