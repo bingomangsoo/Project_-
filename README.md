@@ -88,12 +88,14 @@
 ## 📌 ER다이어그램
 ![db](https://user-images.githubusercontent.com/101463273/189014345-19668b19-1a6e-43bb-8f2b-97d5075e86d5.png)
 <br>
+<br>
 
 ## 🖥 화면 구성
 
 ### 메인화면/지출입력
 ![로그인후_메인](https://user-images.githubusercontent.com/101463273/189025954-c0e38b77-22ef-4a1f-acc4-673b246c407d.png)
 ![메인_지출입력](https://user-images.githubusercontent.com/101463273/189026408-de883063-86b4-439b-a881-ccbd9862c963.png)
+<br>
 <br>
 
 ### 회원가입/로그인/회원수정/회원탈퇴
@@ -102,22 +104,26 @@
 ![마이페이지1](https://user-images.githubusercontent.com/101463273/189025986-299441f3-0baa-4832-ae57-76a00d685f3e.png)
 ![마이페이지2](https://user-images.githubusercontent.com/101463273/189025991-5f127c44-b21a-4834-bfb6-554949c81649.png)
 <br>
+<br>
 
 ### 마이챌린지
 ![마이챌린지](https://user-images.githubusercontent.com/101463273/189026466-9c941f79-3d8b-4f68-9207-625b977a304d.png)
 <br>
 
-### 게시판/댓글
+### 게시판
 ![자유게시판](https://user-images.githubusercontent.com/101463273/189026511-749c0978-cc67-4da1-8d51-be34f43cc1b1.png)
 ![Uploading 게시글.png…]()
 ![게시글](https://user-images.githubusercontent.com/101463273/189026760-37616a6e-4342-4d48-b13d-e1cf886f3b9a.png)
 ![게시글작성](https://user-images.githubusercontent.com/101463273/189026529-806cdb5a-2b51-40c2-973e-c21b6fc95531.png)
 ![게시글수정](https://user-images.githubusercontent.com/101463273/189026523-0ed330f0-b4f8-4b1f-b6f4-5f8155c26c00.png)
 <br>
+<br>
 
 ### 레벨 게시판/세이브 포인트 게시판
 ![레벨게시판](https://user-images.githubusercontent.com/101463273/189026596-79295e41-40df-4b86-ac24-fea832ab2dcc.png)
 ![절약정보게시판](https://user-images.githubusercontent.com/101463273/189026622-39ea74db-5ee4-444d-8e53-cf24964c4a0e.png)
+<br>
+<br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
