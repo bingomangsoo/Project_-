@@ -191,7 +191,7 @@ https://youtu.be/or-fU9-e654
 
   </tr>
     <tr>
-    <td align="center"><b>팀장, 게시판 서비스 구현<br>레벨 화면 구현<br>DB 설계</b></td>
+    <td align="center"><b>팀장<br>게시판 서비스 구현<br>레벨 화면 구현<br>DB 설계</b></td>
     <td align="center"><b>게시판 서비스 구현<br>달성도 차트 구현<br>DB 설계</b></td>
     <td align="center"><b>회원 관리<br>마이챌린지<br>메인화면 구현<br>DB 설계</b></td>
     <td align="center"><b>회원 관리<br>마이챌린지<br>메인화면 구현<br>DB 설계</b></td>
