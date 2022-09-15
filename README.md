@@ -1,6 +1,6 @@
 # Project_smhrd
 # 🥶 얼어죽어도 코딩(팀명: 얼죽코)
-![제목 없음](https://user-images.githubusercontent.com/101463273/189017035-e5c9352f-c883-4d9f-80c7-8f6fe2b13224.png)
+![무지출챌린지_메인](https://user-images.githubusercontent.com/108074336/189463642-1dfcb065-cd04-4c34-a27c-0c8c1ffc2435.png)
 
 
 ## 👽 서비스 소개
