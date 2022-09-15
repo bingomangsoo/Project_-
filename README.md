@@ -161,11 +161,10 @@
 
 ## 시연 영상
 https://youtu.be/or-fU9-e654
-
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src=![ㄱㅁㅇ](https://user-images.githubusercontent.com/101463273/190315316-9c2fc93e-c7e0-453f-95e2-924b3812da3f.png) height="100"/></td>
+    <td align="center"><img src="https://s3.ap-northeast-2.amazonaws.com/icunow.co.kr/2021/12/07112848/Free-Userpics-Pack3-1068x598.jpg" height="100"/></td>
     <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
