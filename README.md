@@ -164,12 +164,12 @@ https://youtu.be/or-fU9-e654
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://s3.ap-northeast-2.amazonaws.com/icunow.co.kr/2021/12/07112848/Free-Userpics-Pack3-1068x598.jpg" height="100"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4439/4439959.png" height="100"/></td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4439/4439968.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4440/4440873.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4440/4440953.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4440/4440876.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4439/4439947.png" width="100" height="100"/></td>
 
   </tr>
   <tr>
