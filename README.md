@@ -209,6 +209,8 @@ https://youtu.be/or-fU9-e654
 
   </tr>
 </table>
+# 👨‍👩‍👦‍👦 팀원 역할
+![팀](https://user-images.githubusercontent.com/108074336/189464703-c073158e-80dd-4a62-8190-09a4206d6c54.png)
 
 ## 🤾‍♂️ 트러블슈팅
   
