@@ -210,7 +210,7 @@ https://youtu.be/or-fU9-e654
   </tr>
 </table>
 # 👨‍👩‍👦‍👦 팀원 역할
-![팀](https://user-images.githubusercontent.com/108074336/189464703-c073158e-80dd-4a62-8190-09a4206d6c54.png)
+![image](https://user-images.githubusercontent.com/101463273/190315000-d73c1106-d1f5-45e0-af69-a10e5066e994.png)
 
 ## 🤾‍♂️ 트러블슈팅
   
