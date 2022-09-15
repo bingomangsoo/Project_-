@@ -126,6 +126,9 @@
 <br>
 <br>
 
+## 시연 영상
+https://youtu.be/or-fU9-e654
+
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
