@@ -1,4 +1,4 @@
-# Project_Coding even if you freeze to death
+# Project_Non_Spending
 # 🥶 얼어죽어도 코딩(팀명: 얼죽코)
 ![image](https://user-images.githubusercontent.com/101463273/190317107-76a99a4d-1867-4f7e-b09c-082a66407dcb.png)
 
