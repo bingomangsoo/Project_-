@@ -1,4 +1,4 @@
-# Project_smhrd
+# Project_Coding even if you freeze to death
 # 🥶 얼어죽어도 코딩(팀명: 얼죽코)
 ![image](https://user-images.githubusercontent.com/101463273/190317107-76a99a4d-1867-4f7e-b09c-082a66407dcb.png)
 
@@ -107,10 +107,6 @@
 </table>
 
 
-<br>
-
-## ⚙ 시스템 아키텍처(구조) 예시 
-![서비스 아키텍처](https://user-images.githubusercontent.com/25995055/169925538-15867bd9-aa0b-42fc-a39b-88981e926e51.png)
 <br>
 
 ## 📌 SW유스케이스
